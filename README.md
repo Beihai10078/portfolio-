@@ -18,7 +18,7 @@
 
 直接双击 `index.html` 即可在浏览器中打开预览。
 
-线上访问：**https://beihai10078.github.io/portfolio-/**
+线上访问：**https://beihai10078.github.io/digital3.WinUI3/**
 
 ## 📝 如何自定义
 
@@ -35,7 +35,7 @@
 
 1. 将本目录上传到任意 GitHub 仓库
 2. 仓库设置 → Pages → 选择 `main` 分支 / `root` 目录
-3. 稍等片刻后访问 `https://beihai10078.github.io/portfolio-/`
+3. 稍等片刻后访问 `https://beihai10078.github.io/digital3.WinUI3/`
 
 ## 🗂️ 相关项目
 
